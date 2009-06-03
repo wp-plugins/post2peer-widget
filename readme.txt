@@ -64,6 +64,14 @@ Use comments.
 I will answer only on that page so that all users can benefit from the answer. 
 So please come back to see the answer or subscribe to that page's post comments.
 
+= Why do I see irrelevant or seemingly random posts showing up? =
+
+The [post2peer.com](http://post2peer.com/) directory will try its best to find posts that match your taxonomy.
+However, if there is no relevant content available, it will fall back to a wider selection in order to allow your widget to display the specified "minimum number of links".
+This can lead to random or otherwise irrelevant topics showing up.
+To avoid this fallback system, please specify a "minimum number of links" of 0 in the widget's control pannel.
+A good way to find more relevant or related links, is to improve the "matching factor" by adding popular tags to your posts.
+
 == Screenshots ==
 
 1. The Post2Peer sidebar widget in action on the [Yann.com](http://www.yann.com/ "Yann's blog") Wordpress blog.
