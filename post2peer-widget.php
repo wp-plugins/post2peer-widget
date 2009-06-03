@@ -221,8 +221,8 @@ function yd_p2p_widget_main() {
 		$mytags = get_the_tags( $id );
 	} 
 	$tags = Array();
-	foreach( $categories as $cat ) $tags[] = $cat->cat_name;
-	foreach( $mytags as $tag ) $tags[] = $tag->name;
+	if( is_array( $categories ) ) foreach( $categories as $cat ) $tags[] = $cat->cat_name;
+	if( is_array( $mytags ) ) foreach( $mytags as $tag ) $tags[] = $tag->name;
 	//if( count( $tags ) == 1 ) $tags[0] = $tags[0] . "+" . $tags[0]; // double the tag to avoid bug
 	//construct rss url
 	$url = 'http://post2peer.com' .
