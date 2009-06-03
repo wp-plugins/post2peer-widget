@@ -66,6 +66,8 @@ So please come back to see the answer or subscribe to that page's post comments.
 
 == Screenshots ==
 
+1. The Post2Peer sidebar widget in action on the [Yann.com](http://www.yann.com/ "Yann's blog") Wordpress blog.
+
 == Widget control pannel ==
 
 The widget has its own control pannel for setting-up its look and feel. You can administer it from the widgets admin page.
