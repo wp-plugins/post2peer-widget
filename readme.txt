@@ -51,7 +51,7 @@ It's still in an early development stage, with new features coming out on a regu
 1. Unzip post2peer-widget.zip
 1. Upload the `post2peer-widget` directory and all its contents into your `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Use the widget admin page to add the widget to one of your sidebars and configure it
+1. Use the widget admin page to add the widget to one of your sidebars and configure it (most important: **choose your blog's language!**)
 
 == Frequently Asked Questions ==
 
