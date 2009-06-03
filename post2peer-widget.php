@@ -8,7 +8,7 @@
 /*
  Plugin Name: Post2Peer
  Plugin URI: http://www.yann.com/wp-plugins/post2peer-wordpress-plugin
- Description: Allows to exchange and share post links + thumbnails between Wordpress blogs, based on matching tags and categories.
+ Description: Allows to exchange and share post links + thumbnails across Wordpress blogs, based on matching tags and categories.
  Author: Yann Dubois
  Version: 0.1.0
  Author URI: http://www.yann.com/
@@ -131,6 +131,7 @@ function yd_p2p_widget_control() {
 	$load_css 	= attribute_escape( $options['load_css'] );
 	$style 		= attribute_escape( $options['style'] );
 	?>
+	<img src="http://www.yann.com/yd-post2peer-widget-v010-logo.gif" style="float:right;width:10px;height:10px;">
 	<p><label for="p2p_widget-title">
 	<?php _e('Title:') ?> 
 	<input type="text" class="widefat" id="p2p_widget-title" name="p2p_widget-title" 
