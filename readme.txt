@@ -1,14 +1,15 @@
 === Post2Peer Widget ===
 Contributors: ydubois
 Donate link: http://www.yann.com/
-Tags: widget, posts, plugin, sidebar, thumbnail, images, cache, tags, automatic, custom, Post, admin, image, category, share, seo
+Tags: widget, posts, plugin, sidebar, thumbnail, images, cache, tags, automatic, custom, Post, admin, image, category, share, seo, links, rss
 Requires at least: 2.5.0
 Tested up to: 2.7.1
 Stable tag: trunk
 
-Permits blogmasters to share and exchange links to their posts based on common taxonomy, across their blogs (ie. posts having the same tags or categories). Each link is automatically associated to a thumbnail image.
-
+Allows to exchange and share post links + thumbnails across Wordpress blogs, based on matching tags and categories.
 == Description ==
+
+A widget that permits blogmasters to share and exchange links to their posts based on common taxonomy, across their blogs (ie. posts having the same tags or categories). Each link is automatically associated to a thumbnail image.
 
 = Share your posts! =
 
